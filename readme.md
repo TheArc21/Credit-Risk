@@ -32,5 +32,9 @@ Here we are importing the libraries and the dataset.
 - Unique Values
 - The first rows of our dataset
 
+# Some Explorations
 
+- Starting by distribution of Age column
+- Some seaborn graphs
+- Columns Crossing
 
