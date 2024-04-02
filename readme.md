@@ -1,24 +1,6 @@
 # Welcome to my Credit Risk analysis Project
 
-I will be doing some explorations through the German Credit Risk dataset to understand their distributions and patterns.
-
-# Index
-
-1. Introduction
-    - Info about the dataset
-2. Libraries
-    - Import Libraries
-    - Import Dataset
-3. Looking at the data
-    - Looking at the type of data
-    - Shape of the data
-    - Null values
-    - Unique Values
-    - The first rows of our dataset
-4. Exploring some variables
-    - Plotting some graphical and descriptive information
-5. 
-
+I will be doing some explorations through the German Credit Risk dataset to understand their distributions and patterns. I will use this readme file to document all my steps and thinking processes used in my analysis.
 
 # Introduction 
 
@@ -38,3 +20,17 @@ It is almost impossible to understand the original dataset due to its complicate
 - Duration (numeric, in month)
 - Purpose(text: car, furniture/equipment, radio/TV, domestic appliances, repairs, education, business, vacation/others
 - Risk (Value target - Good or Bad Risk)
+
+# Libraries
+
+Here we are importing the libraries and the dataset.
+
+# Looking at the data
+
+- Looking for the type of data
+- Null values
+- Unique Values
+- The first rows of our dataset
+
+
+
