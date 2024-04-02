@@ -4,7 +4,7 @@ I will be doing some explorations through the German Credit Risk dataset to unde
 
 # Index
 
-1. [Introduction ](#Introduction-)
+1. Introduction
     - Info about the dataset
 2. Libraries
     - Import Libraries
@@ -22,10 +22,12 @@ I will be doing some explorations through the German Credit Risk dataset to unde
 
 # Introduction 
 
-Context
-The original dataset contains 1000 entries with 20 categorial/symbolic attributes prepared by Prof. Hofmann. In this dataset, each entry represents a person who takes a credit by a bank. Each person is classified as good or bad credit risks according to the set of attributes. The link to the original dataset can be found below.
-Content
+### Context
+The original dataset contains 1000 entries with 20 categorial/symbolic attributes. In this dataset, each entry represents a person who takes credit by a bank. Each person is classified as good or bad credit risks according to the set of attributes.
+
+### Content
 It is almost impossible to understand the original dataset due to its complicated system of categories and symbols. Thus, I wrote a small Python script to convert it into a readable CSV file. Several columns are simply ignored, because in my opinion either they are not important or their descriptions are obscure. The selected attributes are:
+
 Age (numeric)
 Sex (text: male, female)
 Job (numeric: 0 - unskilled and non-resident, 1 - unskilled and resident, 2 - skilled, 3 - highly skilled)
