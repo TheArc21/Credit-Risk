@@ -44,5 +44,15 @@ Since GitHub cannot show the visualizations of the plotly library, You can check
 - Difference in Sex
 - Job Distribution
 - Distribuition of Credit Amount
-- 
+- Distruibution of Saving accounts
+- Duration of the loans distribuition and density
+- Checking accounts
+- Crosstabs
 
+# Correlation
+- Looking at the data correlation
+
+# Preprocessing
+- Importing ML librarys
+- Setting X and y variables to the prediction
+- Splitting Data
