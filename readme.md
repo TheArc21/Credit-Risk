@@ -56,3 +56,7 @@ Since GitHub cannot show the visualizations of the plotly library, You can check
 - Importing ML librarys
 - Setting X and y variables to the prediction
 - Splitting Data
+
+# Model 1
+- Random Forest
+
