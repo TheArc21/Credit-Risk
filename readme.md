@@ -4,7 +4,7 @@ I will be doing some explorations through the German Credit Risk dataset to unde
 
 # Index
 
-1. [Introduction](#Introduction-)
+1. [Introduction ](#Introduction-)
     - Info about the dataset
 2. Libraries
     - Import Libraries
