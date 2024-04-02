@@ -38,4 +38,11 @@ Since GitHub cannot show the visualizations of the plotly library, You can check
 - Starting by distribution of Age column
 - Some seaborn graphs
 - Columns Crossing
+- Creating an categorical variable to handle with the Age variable
+- Distribuition of Housing own and rent by Risk
+- Distribuition of Credit Amount by Housing
+- Difference in Sex
+- Job Distribution
+- Distribuition of Credit Amount
+- 
 
