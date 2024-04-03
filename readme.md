@@ -34,7 +34,7 @@ Here we are importing the libraries and the dataset.
 
 # Some Explorations
 
-Since GitHub cannot show the visualizations of the plotly library, You can check out this [link](https://nbviewer.org/github/TheArc21/Credit-Risk/blob/main/Credit_Risk_Model.ipynb) for a rich view of the notebook.
+Since GitHub cannot show the visualizations of the plotly library, You can check out this [link](https://nbviewer.org/) for a rich view of the notebook.
 - Starting by distribution of Age column
 - Some seaborn graphs
 - Columns Crossing
