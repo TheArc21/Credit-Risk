@@ -60,3 +60,5 @@ Since GitHub cannot show the visualizations of the plotly library, You can check
 # Model 1
 - Random Forest
 
+# Model 2
+- Gaussian Model
